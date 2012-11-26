@@ -29,13 +29,13 @@ import blackThornDemon.common.CommonProxyTutorial;
  * ** Item :: IconIndex :: ID **
  * titanium 		:: 00 :: 550
  * titanium sword 	:: 01 :: 551
- * titanium pickaxe :: 02 :: 552
+ * titanium pickaxe	:: 02 :: 552
  * titanium axe 	:: 03 :: 553
  * titanium spade 	:: 04 :: 554
  * titanium hoe 	:: 05 :: 555
  * titanium helmet 	:: 06 :: 556
  * titanium armor 	:: 07 :: 557
- * titanium greaves :: 08 :: 558
+ * titanium greaves	:: 08 :: 558
  * titanium boots 	:: 09 :: 559
  * titanium arrows 	:: 10 :: 560
  * Rutile Ore  		:: 11 :: 230
