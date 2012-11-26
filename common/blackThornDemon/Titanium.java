@@ -22,7 +22,7 @@ import blackThornDemon.core.ObjectSpade;
 import blackThornDemon.core.ObjectHoe;
 import blackThornDemon.common.CommonProxyTutorial;
 
-@Mod(modid = "BlackThornDemon", name = "BlackThornDemon", version = "0.00.01")
+@Mod(modid = "BlackThornDemon", name = "BlackThornDemon", version = "0.80")
 @NetworkMod(clientSideRequired = true, serverSideRequired = false)
 /* 749 
  * 
